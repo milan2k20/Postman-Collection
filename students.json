@@ -1,0 +1,70 @@
+{
+    "studentsData": [
+        {
+            "id": 1,
+            "name": "Manish",
+            "class": "IV",
+            "RollNo": 100,
+            "father_Name": "Pintu",
+            "Mobile": 9090909090,
+            "location": "Bhubaneswar",
+            "courses": [
+                "C",
+                "C#"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Natu",
+            "class": "VI",
+            "RollNo": 101,
+            "father_Name": "Mahi",
+            "Mobile": 8787878787,
+            "location": "Cuttack",
+            "courses": [
+                "C",
+                "C++"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Natu",
+            "class": "VII",
+            "RollNo": 102,
+            "father_Name": "Mahi",
+            "Mobile": 7676767676,
+            "location": "Jagatsinghpur",
+            "courses": [
+                "C#",
+                "C++"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Satish",
+            "class": "IX",
+            "RollNo": 103,
+            "father_Name": "Siva",
+            "Mobile": 6565656565,
+            "location": "Puri",
+            "courses": [
+                "C",
+                "C++",
+                "Java"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Padma",
+            "class": "VIII",
+            "RollNo": 104,
+            "father_Name": "Bijay",
+            "Mobile": 5454545454,
+            "location": "Rourkela",
+            "courses": [
+                "Java",
+                "Perl"
+            ]
+        }
+    ]
+}
